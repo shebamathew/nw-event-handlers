@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tabs Component renders the first tab by default 1`] = `
+<div>
+  <button
+    onClick={[Function]}
+  >
+    
+  </button>
+  <div
+    className="content"
+  >
+    
+  </div>
+</div>
+`;

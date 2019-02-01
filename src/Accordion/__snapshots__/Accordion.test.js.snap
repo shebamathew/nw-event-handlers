@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Accordion Component renders the first section by default 1`] = `
+<ul>
+  <li>
+    <button
+      onClick={[Function]}
+    >
+      
+    </button>
+    <p>
+      
+    </p>
+  </li>
+</ul>
+`;
